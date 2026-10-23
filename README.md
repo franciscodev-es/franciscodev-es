@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="space-invaders-banner.svg" alt="Francisco M. Duran - Grado Medio SMR" width="100%" />
+  <img src="space-invaders-banner_1_.svg" alt="Francisco M. Duran - Grado Medio SMR" width="100%" />
 </p>
 
 <p align="center">
